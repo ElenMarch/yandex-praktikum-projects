@@ -14,3 +14,4 @@
 | [Классификаиция клиентов телеком компании](https://github.com/ElenMarch/yandex-praktikum-projects/tree/new_tariff) | Построить систему, способную проанализировать поведение клиентов и предложить пользователям один из двух новыв тарифов.| Python, Pandas, Matplotlib, Scikit-learn|
 | [Прогнозирование оттока клиента Банка](https://github.com/ElenMarch/yandex-praktikum-projects/tree/beta_bank) | На основе данных из банка определить клиента, который может уйти. | Pandas, Matplotlib, Scikit-learn |
 ||||
+
