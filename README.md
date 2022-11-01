@@ -15,4 +15,4 @@
 | [Прогнозирование оттока клиента Банка](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/beta_bank) | На основе данных из банка определить клиента, который может уйти. | Pandas, Matplotlib, Scikit-learn |
 | [Выбор локации для скважины](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/geo) | На основе данных геологи разведки выбрать район добычи нефти. | Pandas, Bootstrap, Scikit-learn |
 | [Исследование технологического процесса очистки золота](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/gold) | Спрогнозировать концентрацию золота при проведении процесса очистки золота. | Pandas, EDA, Matplotlib |
-| [Защита персональных данных клиентов](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/insurance) || Python, Scikit-learn |
+| [Защита персональных данных клиентов](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/insurance) | Разработка модели анонимизации персональных данных. | Python, Scikit-learn |
