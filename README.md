@@ -11,7 +11,8 @@
 | [Анализ рынка недвижимости в Санкт-Петербурге](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/Spb_apartment) | Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир. |Python, Pandas, Matplotlib, Seaborn|
 | [Определение выгодного тарифа для телеком компании](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/users_tariff) | На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа. | Python, Pandas, Matplotlib, Seaborn, Scipy, Numpy, Исследовательский анализ данных |
 | [Сборный проект анализа компьютерных игр](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/games) | Оценить на основе исторических данных о продажах игр, оценок пользователей и экспертов, жанров и платформ успешность выпещенных продуктов. | Python, Pandas, Seaborn, Scipy, Исследовательский анализ данных |
-| [Классификаиция клиентов телеком компании](https://github.com/ElenMarch/yandex-praktikum-projects/tree/new_tariff) | Построить систему, способную проанализировать поведение клиентов и предложить пользователям один из двух новыв тарифов.| Python, Pandas, Matplotlib, Scikit-learn|
-| [Прогнозирование оттока клиента Банка](https://github.com/ElenMarch/yandex-praktikum-projects/tree/beta_bank) | На основе данных из банка определить клиента, который может уйти. | Pandas, Matplotlib, Scikit-learn |
-||||
-
+| [Классификаиция клиентов телеком компании](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/new_tariff) | Построить систему, способную проанализировать поведение клиентов и предложить пользователям один из двух новыв тарифов.| Python, Pandas, Matplotlib, Scikit-learn|
+| [Прогнозирование оттока клиента Банка](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/beta_bank) | На основе данных из банка определить клиента, который может уйти. | Pandas, Matplotlib, Scikit-learn |
+| [Выбор локации для скважины] (https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/geo) | На основе данных геологи разведки выбрать район добычи нефти. | Pandas, Bootstrap, Scikit-learn |
+| [Исследование технологического процесса очистки золота] (https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/gold) | Спрогнозировать концентрацию золота при проведении процесса очистки золота. | Pandas, EDA, Matplotlib |
+| [Защита персональных данных клиентов] (https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/insurance) || Python, Scikit-learn |
