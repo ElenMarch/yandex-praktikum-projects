@@ -16,3 +16,7 @@
 | [Выбор локации для скважины](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/geo) | На основе данных геологи разведки выбрать район добычи нефти. | Pandas, Bootstrap, Scikit-learn |
 | [Исследование технологического процесса очистки золота](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/gold) | Спрогнозировать концентрацию золота при проведении процесса очистки золота. | Pandas, EDA, Matplotlib |
 | [Защита персональных данных клиентов](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/insurance) | Разработка модели анонимизации персональных данных. | Python, Scikit-learn |
+| [Определение стоимости автомобилей](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/cars) | Разработка системы рекомендации стоимости автомобиля на основе его описания.| Python, Pandas, lightgbm |
+| [Модели классификации комментариев](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/vikishop) | Требуется инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | Python, nltk, tf-idf |
+|[Определение возраста покупателей](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/vision) | Создание модели, позволяющей анализировать возраст клиента по фотографии. | Python, tensorflow, **ResNet50**|
+| [Телеком](https://github.com/ElenMarch/yandex-praktikum-projects/tree/main/telecom) | На основе данных из телеком-компании определить клиента, который может уйти. | Python, Pandas, lightgbm, Seaborn, Matplotlib |
